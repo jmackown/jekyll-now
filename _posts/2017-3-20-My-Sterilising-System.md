@@ -1,7 +1,7 @@
 ---
 layout: post
-category: baby
-title: Baby Milk Sterilising System
+categories: baby
+title: Baby Systems 1: The Steriliser
 ---
 
 
