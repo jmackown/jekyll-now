@@ -20,7 +20,7 @@ layout: default
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
 
-  <p id="post-meta">{{ category_content }}</p>
+  <small>Posted{% if category_content %} in </small>{{ category_content }}<small>{% endif %}{{ tags_content }}</small>
 
 
   {% include disqus.html %}
