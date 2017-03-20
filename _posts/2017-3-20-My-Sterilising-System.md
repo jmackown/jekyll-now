@@ -13,8 +13,8 @@ As The Baby was a bit small when he was born, and lost a bit more weight than he
 
 **The Equipment**
 
-* [Washing up bowl] (https://www.amazon.co.uk/ADDIS-touch-Washing-White-Grass/dp/B00DWZRZ3U/ref=pd_sbs_201_1?_encoding=UTF8&psc=1&refRID=JJP43TNPEBPC27CMYF43)
-* [Steriliser] (https://www.amazon.co.uk/Tommee-Tippee-Closer-Electric-Steriliser/dp/B004GCJF9K/ref=sr_1_1?s=baby&ie=UTF8&qid=1490020913&sr=1-1&keywords=tommee+tippee+steriliser)
+* [Washing up bowl](https://www.amazon.co.uk/ADDIS-touch-Washing-White-Grass/dp/B00DWZRZ3U/ref=pd_sbs_201_1?_encoding=UTF8&psc=1&refRID=JJP43TNPEBPC27CMYF43)
+* [Steriliser](https://www.amazon.co.uk/Tommee-Tippee-Closer-Electric-Steriliser/dp/B004GCJF9K/ref=sr_1_1?s=baby&ie=UTF8&qid=1490020913&sr=1-1&keywords=tommee+tippee+steriliser)
 * [Drying Rack](https://www.amazon.co.uk/Boon-Lawn-Countertop-Drying-Green-x/dp/B004OR1DTC/ref=sr_1_1_a_it?ie=UTF8&qid=1490020938&sr=8-1&keywords=lawn+drying+rack)
 * Big tupperware
 
