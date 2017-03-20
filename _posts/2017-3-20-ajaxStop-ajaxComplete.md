@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: tech
-tags: jquery ajax
+tags: [jquery, ajax, work]
 title: "ajaxStop vs ajaxComplete"
 ---
 
