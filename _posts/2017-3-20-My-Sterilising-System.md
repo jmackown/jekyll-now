@@ -1,8 +1,5 @@
 ---
 layout: post
-category: baby
-tags: baby, system, feeding
-published: false
 title: Baby Milk Sterilising System
 ---
 
