@@ -1,5 +1,6 @@
 ---
 layout: post
+category: baby
 title: Baby Milk Sterilising System
 ---
 
