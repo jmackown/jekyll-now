@@ -6,7 +6,7 @@
 name: Jennifer Mackown
 
 # Short bio or description (displayed in the header)
-description: Web Developer from ScholarPack
+description: Web Developer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png
@@ -84,3 +84,44 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+
+#custom stuffs
+
+
+# Where things are
+collections:
+  my_categories:
+    output: true
+    permalink: /blog/category/:name/
+  my_tags:
+    output: true
+    permalink: /blog/tag/:name/
+
+
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
+  -
+    scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+  -
+    scope:
+      path: ""
+      type: my_categories
+    values:
+      layout: blog_by_category
+  -
+    scope:
+      path: ""
+      type: my_tags
+    values:
+      layout: blog_by_tag
