@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: jmackown/jmackown.github.io
+  github: jmackown
   instagram:
   linkedin: jennifer-mackown-4352aa37/
   pinterest:
@@ -30,6 +30,7 @@ footer-links:
   stackoverflow: users/7642240/niftyshellsuit
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
+
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
