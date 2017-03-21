@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: tech
-tags: [flexbox, grids, css]
+tags: [css, projects, tech]
 title: "Responsive Profile Grid - Flexbox Version"
 ---
 

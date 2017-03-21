@@ -1,6 +1,7 @@
 ---
 layout: post
 categories: baby
+tags: [baby, equipment]
 title: "Baby Systems 1: The Steriliser"
 ---
 
